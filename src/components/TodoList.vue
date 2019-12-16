@@ -36,7 +36,7 @@
 export default {
   props: {
     todos: [Array],
-    'max-width': {
+    maxWidth: {
       type: [Number],
       default: 400
     }
